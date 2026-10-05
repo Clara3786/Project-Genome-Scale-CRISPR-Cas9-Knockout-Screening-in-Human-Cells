@@ -1,4 +1,4 @@
-README for data.csv
+# README for data.csv
 
 The figure is derived from Figure S2B, which shows the fraction of frameshifts and in-frame mutations from a deep sequencing analysis of lentiCRISPR-modified EGFP genes for each of the 6 sgRNAs. 
 
